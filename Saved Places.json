@@ -2,7 +2,1447 @@
   "type" : "FeatureCollection",
   "features" : [ {
     "geometry" : {
-      "coordinates" : [ -71.0789549, 42.3473183 ],
+      "coordinates" : [ -73.982226, 40.753153 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=13382012859512888701",
+      "Location" : {
+        "Latitude" : "40.753153",
+        "Longitude" : "-73.982226"
+      },
+      "Published" : "2017-01-30T21:39:37Z",
+      "Title" : "New York Public Library",
+      "Updated" : "2017-01-30T21:39:37Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.9900800, 40.7584710 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=7058750565221371185",
+      "Location" : {
+        "Address" : "311 West 43rd Street, New York, NY 10036, United States",
+        "Business Name" : "Hakkasan",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.7584710",
+          "Longitude" : "-73.9900800"
+        }
+      },
+      "Published" : "2017-01-30T21:38:29Z",
+      "Title" : "Hakkasan",
+      "Updated" : "2017-01-30T21:38:29Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.9775270, 40.6853460 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=17587177404886256000",
+      "Location" : {
+        "Address" : "1 Hanson Place, Brooklyn, NY 11243, United States",
+        "Business Name" : "Brooklyn Flea + Smorgasburg Winter Market",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.6853460",
+          "Longitude" : "-73.9775270"
+        }
+      },
+      "Published" : "2017-01-30T21:31:45Z",
+      "Title" : "Brooklyn Flea + Smorgasburg Winter Market",
+      "Updated" : "2017-01-30T21:31:45Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.9800278, 40.7776253 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=4901474949788571909",
+      "Location" : {
+        "Address" : "128 West 72nd Street, New York, NY 10023, United States",
+        "Business Name" : "Box Kite Coffee",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.7776253",
+          "Longitude" : "-73.9800278"
+        }
+      },
+      "Published" : "2017-01-30T19:18:16Z",
+      "Title" : "Box Kite Coffee",
+      "Updated" : "2017-01-30T19:18:16Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.9739882, 40.7813241 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=11708656934508584369",
+      "Location" : {
+        "Address" : "Central Park West & 79th St, New York, NY 10024, United States",
+        "Business Name" : "American Museum of Natural History",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.7813241",
+          "Longitude" : "-73.9739882"
+        }
+      },
+      "Published" : "2017-01-30T19:18:03Z",
+      "Title" : "American Museum of Natural History",
+      "Updated" : "2017-01-30T19:18:03Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.9849313, 40.7546766 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=12794250613978033624",
+      "Location" : {
+        "Address" : "1095 Avenue of the Americas, 1095 6th Avenue, New York, NY 10036, United States",
+        "Business Name" : "Whole Foods Market (Bryant Park)",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.7546766",
+          "Longitude" : "-73.9849313"
+        }
+      },
+      "Published" : "2017-01-29T18:48:19Z",
+      "Title" : "Whole Foods Market (Bryant Park)",
+      "Updated" : "2017-01-29T18:48:19Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.9903393, 40.6606108 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=13234305447467729071",
+      "Location" : {
+        "Address" : "687 6th Avenue, Brooklyn, NY 11215, United States",
+        "Business Name" : "Lot 2",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.6606108",
+          "Longitude" : "-73.9903393"
+        }
+      },
+      "Published" : "2017-01-29T15:35:16Z",
+      "Title" : "Lot 2",
+      "Updated" : "2017-01-29T15:35:16Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.9772294, 40.7527262 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=3986032562251317387",
+      "Location" : {
+        "Address" : "89 East 42nd Street, New York, NY 10017, United States",
+        "Business Name" : "Grand Central Terminal",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.7527262",
+          "Longitude" : "-73.9772294"
+        }
+      },
+      "Published" : "2017-01-28T23:14:04Z",
+      "Title" : "Grand Central Terminal",
+      "Updated" : "2017-01-28T23:14:04Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.9632440, 40.7794366 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=4264808743088595450",
+      "Location" : {
+        "Address" : "1000 5th Avenue, New York, NY 10028, United States",
+        "Business Name" : "The Metropolitan Museum of Art",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.7794366",
+          "Longitude" : "-73.9632440"
+        }
+      },
+      "Published" : "2017-01-28T23:13:53Z",
+      "Title" : "The Metropolitan Museum of Art",
+      "Updated" : "2017-01-28T23:13:53Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.9638055, 40.7734196 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=12573230845236534531",
+      "Location" : {
+        "Address" : "945 Madison Avenue, New York, NY 10021, United States",
+        "Business Name" : "The Met Breuer",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.7734196",
+          "Longitude" : "-73.9638055"
+        }
+      },
+      "Published" : "2017-01-28T23:13:41Z",
+      "Title" : "The Met Breuer",
+      "Updated" : "2017-01-28T23:13:41Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -71.0709826, 42.3598657 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=15543536993940144923",
+      "Location" : {
+        "Address" : "144 Charles Street, Boston, MA 02114, United States",
+        "Business Name" : "Panificio Bistro & Bakery",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "42.3598657",
+          "Longitude" : "-71.0709826"
+        }
+      },
+      "Published" : "2017-01-15T21:05:06Z",
+      "Title" : "Panificio Bistro & Bakery",
+      "Updated" : "2017-01-15T21:05:06Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -71.1049118, 42.3657866 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=2774789711721194608",
+      "Location" : {
+        "Address" : "698 Massachusetts Avenue, Cambridge, MA 02139, United States",
+        "Business Name" : "Rodney's Bookstore",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "42.3657866",
+          "Longitude" : "-71.1049118"
+        }
+      },
+      "Published" : "2017-01-15T20:45:05Z",
+      "Title" : "Rodney's Bookstore",
+      "Updated" : "2017-01-15T20:45:05Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -71.0237679, 42.2219952 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=13911616653642354968",
+      "Location" : {
+        "Address" : "250 Granite Street, Braintree, MA 02184, United States",
+        "Business Name" : "South Shore Plaza",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "42.2219952",
+          "Longitude" : "-71.0237679"
+        }
+      },
+      "Published" : "2017-01-14T03:29:50Z",
+      "Title" : "South Shore Plaza",
+      "Updated" : "2017-01-14T03:29:50Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -71.0770830, 42.3487000 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=14217582044482360805",
+      "Location" : {
+        "Address" : "200 Dartmouth Street, Boston, MA 02116, United States",
+        "Business Name" : "Fogo de Chão Brazilian Steakhouse",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "42.3487000",
+          "Longitude" : "-71.0770830"
+        }
+      },
+      "Published" : "2017-01-14T01:21:45Z",
+      "Title" : "Fogo de Chão Brazilian Steakhouse",
+      "Updated" : "2017-01-14T01:21:45Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -71.1369604, 42.3541408 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=11683985667992231748",
+      "Location" : {
+        "Address" : "485 Cambridge Street, Allston, MA 02134, United States",
+        "Business Name" : "Roxy's Grilled Cheese & Burgers",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "42.3541408",
+          "Longitude" : "-71.1369604"
+        }
+      },
+      "Published" : "2017-01-09T18:19:20Z",
+      "Title" : "Roxy's Grilled Cheese & Burgers",
+      "Updated" : "2017-01-09T18:19:20Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -71.1341557, 42.3550999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=3597830110742528008",
+      "Location" : {
+        "Address" : "421 Cambridge Street, Allston, MA 02134, United States",
+        "Business Name" : "Lulu's Allston",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "42.3550999",
+          "Longitude" : "-71.1341557"
+        }
+      },
+      "Published" : "2017-01-09T03:34:02Z",
+      "Title" : "Lulu's Allston",
+      "Updated" : "2017-01-09T03:34:02Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -71.0655140, 42.3561126 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=13237956462207427296",
+      "Location" : {
+        "Address" : "38 Beacon Street, Boston, MA 02108, United States",
+        "Business Name" : "Boston Common Frog Pond",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "42.3561126",
+          "Longitude" : "-71.0655140"
+        }
+      },
+      "Published" : "2017-01-08T00:24:30Z",
+      "Title" : "Boston Common Frog Pond",
+      "Updated" : "2017-01-08T00:24:30Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -71.0527180, 42.3565703 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=689804332618053346",
+      "Location" : {
+        "Address" : "184 High Street, Boston, MA 02110, United States",
+        "Business Name" : "Howl at the Moon Boston",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "42.3565703",
+          "Longitude" : "-71.0527180"
+        }
+      },
+      "Published" : "2017-01-08T00:21:09Z",
+      "Title" : "Howl at the Moon Boston",
+      "Updated" : "2017-01-08T00:21:09Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -71.1366491, 42.3393080 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=4129455861733488376",
+      "Location" : {
+        "Address" : "1648 Beacon Street, Brookline, MA 02445, United States",
+        "Business Name" : "The Publick House",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "42.3393080",
+          "Longitude" : "-71.1366491"
+        }
+      },
+      "Published" : "2017-01-07T01:10:46Z",
+      "Title" : "The Publick House",
+      "Updated" : "2017-01-07T01:10:46Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -71.1326013, 42.3528504 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=17266038971322858934",
+      "Location" : {
+        "Address" : "158 Brighton Avenue, Allston, MA 02134, United States",
+        "Business Name" : "Brighton Music Hall",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "42.3528504",
+          "Longitude" : "-71.1326013"
+        }
+      },
+      "Published" : "2017-01-07T01:10:24Z",
+      "Title" : "Brighton Music Hall",
+      "Updated" : "2017-01-07T01:10:24Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.9904520, 40.7179480 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=9340430857689936027",
+      "Location" : {
+        "Address" : "85 Orchard Street, New York, NY 10002, United States",
+        "Business Name" : "An Choi",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.7179480",
+          "Longitude" : "-73.9904520"
+        }
+      },
+      "Published" : "2017-01-03T20:38:01Z",
+      "Title" : "An Choi",
+      "Updated" : "2017-01-03T20:38:01Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -74.0141720, 40.7051727 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=15271389222339406452",
+      "Location" : {
+        "Address" : "9 Broadway, New York, NY 10004, United States",
+        "Business Name" : "Kung Fu Tea",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.7051727",
+          "Longitude" : "-74.0141720"
+        }
+      },
+      "Published" : "2017-01-02T23:45:29Z",
+      "Title" : "Kung Fu Tea",
+      "Updated" : "2017-01-02T23:45:29Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -74.0134436, 40.7055537 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=14401167158508778785",
+      "Location" : {
+        "Address" : "Broadway & Morris St, New York, NY, United States",
+        "Business Name" : "Charging Bull",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.7055537",
+          "Longitude" : "-74.0134436"
+        }
+      },
+      "Published" : "2017-01-02T23:40:32Z",
+      "Title" : "Charging Bull",
+      "Updated" : "2017-01-02T23:40:32Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -74.0089230, 40.7067080 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=6559020781207821343",
+      "Location" : {
+        "Address" : "52 William Street, New York, NY 10005, United States",
+        "Business Name" : "The Bailey",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.7067080",
+          "Longitude" : "-74.0089230"
+        }
+      },
+      "Published" : "2017-01-02T22:50:15Z",
+      "Title" : "The Bailey",
+      "Updated" : "2017-01-02T22:50:15Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -74.0035054, 40.7073693 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=16449158672330615363",
+      "Location" : {
+        "Address" : "209 Water Street, New York, NY 10038, United States",
+        "Business Name" : "Bowne Printers",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.7073693",
+          "Longitude" : "-74.0035054"
+        }
+      },
+      "Published" : "2017-01-02T22:49:34Z",
+      "Title" : "Bowne Printers",
+      "Updated" : "2017-01-02T22:49:34Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -74.0037097, 40.7065616 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=3455167610189095390",
+      "Location" : {
+        "Address" : "12 Fulton Street, New York, NY 10038, United States",
+        "Business Name" : "South Street Seaport Museum",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.7065616",
+          "Longitude" : "-74.0037097"
+        }
+      },
+      "Published" : "2017-01-02T22:48:48Z",
+      "Title" : "South Street Seaport Museum",
+      "Updated" : "2017-01-02T22:48:48Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -74.0131743, 40.7115606 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=17595788891692801773",
+      "Location" : {
+        "Address" : "180 Greenwich Street, New York, NY 10007, United States",
+        "Business Name" : "9/11 Memorial",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.7115606",
+          "Longitude" : "-74.0131743"
+        }
+      },
+      "Published" : "2017-01-02T22:09:22Z",
+      "Title" : "9/11 Memorial",
+      "Updated" : "2017-01-02T22:09:22Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -74.0114251, 40.7115712 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=8749349100035079347",
+      "Location" : {
+        "Address" : "185 Greenwich Street, New York, NY 10007, United States",
+        "Business Name" : "Westfield World Trade Center",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.7115712",
+          "Longitude" : "-74.0114251"
+        }
+      },
+      "Published" : "2017-01-02T22:08:21Z",
+      "Title" : "Oculus",
+      "Updated" : "2017-01-02T22:08:21Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.9540490, 40.8058557 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=4841772244516339874",
+      "Location" : {
+        "Address" : "2194 Frederick Douglass Boulevard, New York, NY 10019, United States",
+        "Business Name" : "Double Dutch Espresso",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.8058557",
+          "Longitude" : "-73.9540490"
+        }
+      },
+      "Published" : "2017-01-01T22:32:39Z",
+      "Title" : "Double Dutch Espresso",
+      "Updated" : "2017-01-01T22:32:39Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.9546798, 40.8048926 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=9923371222877345675",
+      "Location" : {
+        "Address" : "2168 Frederick Douglass Boulevard, New York, NY 10026, United States",
+        "Business Name" : "Lido Restaurant",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.8048926",
+          "Longitude" : "-73.9546798"
+        }
+      },
+      "Published" : "2017-01-01T22:31:58Z",
+      "Title" : "Lido Restaurant",
+      "Updated" : "2017-01-01T22:31:58Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.9886009, 40.7287773 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=14517103697532633770",
+      "Location" : {
+        "Address" : "28 Saint Marks Place, New York, NY 10003, United States",
+        "Business Name" : "Kung Fu Tea",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.7287773",
+          "Longitude" : "-73.9886009"
+        }
+      },
+      "Published" : "2017-01-01T20:16:17Z",
+      "Title" : "Kung Fu Tea",
+      "Updated" : "2017-01-01T20:16:17Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.9785955, 40.7587009 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=3907818020190626985",
+      "Location" : {
+        "Address" : "Rockefeller Center, New York, NY 10111, United States",
+        "Business Name" : "Rockefeller Center Tree",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.7587009",
+          "Longitude" : "-73.9785955"
+        }
+      },
+      "Published" : "2017-01-01T19:21:31Z",
+      "Title" : "Rockefeller Center Tree",
+      "Updated" : "2017-01-01T19:21:31Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.9968643, 40.7060855 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=2677070821511218780",
+      "Location" : {
+        "Address" : "Brooklyn Bridge, New York, NY, United States",
+        "Business Name" : "Brooklyn Bridge",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.7060855",
+          "Longitude" : "-73.9968643"
+        }
+      },
+      "Published" : "2017-01-01T18:11:42Z",
+      "Title" : "Brooklyn Bridge",
+      "Updated" : "2017-01-01T18:11:42Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.990670, 40.733218 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Strand+Book+Store,+New+York,+NY+10003&ftid=0x89c25999172d270f:0xd31b45faa7b3b814",
+      "Location" : {
+        "Latitude" : "40.733218",
+        "Longitude" : "-73.990670"
+      },
+      "Published" : "2017-01-01T16:07:08Z",
+      "Title" : "Strand Book Store, New York, NY 10003",
+      "Updated" : "2017-01-01T16:07:08Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.9905595, 40.7340890 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=4900013324254305635",
+      "Location" : {
+        "Address" : "850 Broadway, New York, NY 10003, United States",
+        "Business Name" : "Regal Union Square Stadium 14",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.7340890",
+          "Longitude" : "-73.9905595"
+        }
+      },
+      "Published" : "2017-01-01T07:28:29Z",
+      "Title" : "Regal Union Square Stadium 14",
+      "Updated" : "2017-01-01T07:28:29Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -74.0010063, 40.7292229 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=11866723306724305555",
+      "Location" : {
+        "Address" : "185 Bleecker Street, New York, NY 10012, United States",
+        "Business Name" : "by CHLOE.",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.7292229",
+          "Longitude" : "-74.0010063"
+        }
+      },
+      "Published" : "2017-01-01T07:27:38Z",
+      "Title" : "by CHLOE.",
+      "Updated" : "2017-01-01T07:27:38Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.9856629, 40.7278680 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=18128126118387533694",
+      "Location" : {
+        "Address" : "77 Saint Marks Place, New York, NY 10003, United States",
+        "Business Name" : "La Palapa",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.7278680",
+          "Longitude" : "-73.9856629"
+        }
+      },
+      "Published" : "2017-01-01T07:27:22Z",
+      "Title" : "La Palapa",
+      "Updated" : "2017-01-01T07:27:22Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.9973320, 40.7308228 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=18041805897612033560",
+      "Location" : {
+        "Address" : "New York, NY, United States",
+        "Business Name" : "Washington Square Park",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.7308228",
+          "Longitude" : "-73.9973320"
+        }
+      },
+      "Published" : "2017-01-01T07:27:11Z",
+      "Title" : "Washington Square Park",
+      "Updated" : "2017-01-01T07:27:11Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.9900697, 40.7187958 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=14799082352807939716",
+      "Location" : {
+        "Address" : "103 Orchard Street, New York, NY 10002, United States",
+        "Business Name" : "Tenement Museum",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.7187958",
+          "Longitude" : "-73.9900697"
+        }
+      },
+      "Published" : "2017-01-01T07:27:01Z",
+      "Title" : "Tenement Museum",
+      "Updated" : "2017-01-01T07:27:01Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.9874459, 40.7216944 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=8842247816402036280",
+      "Location" : {
+        "Address" : "176 Ludlow Street, New York, NY 10002, United States",
+        "Business Name" : "Ludlow Coffee Supply",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.7216944",
+          "Longitude" : "-73.9874459"
+        }
+      },
+      "Published" : "2017-01-01T07:26:52Z",
+      "Title" : "Ludlow Coffee Supply",
+      "Updated" : "2017-01-01T07:26:52Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.9682449, 40.8008252 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=17945847329573659946",
+      "Location" : {
+        "Address" : "2745 Broadway, New York, NY 10025, United States",
+        "Business Name" : "Henry's",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.8008252",
+          "Longitude" : "-73.9682449"
+        }
+      },
+      "Published" : "2016-12-31T01:09:34Z",
+      "Title" : "Henry's",
+      "Updated" : "2016-12-31T01:09:34Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -74.0021565, 40.7208023 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=5651111840241995326",
+      "Location" : {
+        "Address" : "21 Mercer Street, New York, NY 10013, United States",
+        "Business Name" : "NikeLab 21M",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.7208023",
+          "Longitude" : "-74.0021565"
+        }
+      },
+      "Published" : "2016-12-30T21:09:48Z",
+      "Title" : "NikeLab 21M",
+      "Updated" : "2016-12-30T21:11:07Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.996485, 40.724569 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=15315609941600980451",
+      "Location" : {
+        "Latitude" : "40.724569",
+        "Longitude" : "-73.996485"
+      },
+      "Published" : "2016-12-30T20:17:15Z",
+      "Title" : "Housing Works Bookstore Cafe",
+      "Updated" : "2016-12-30T20:17:15Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.9969149, 40.7179147 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=3827824839611872968",
+      "Location" : {
+        "Address" : "116 Mott Street A, New York, NY 10013, United States",
+        "Business Name" : "Optical 88",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.7179147",
+          "Longitude" : "-73.9969149"
+        }
+      },
+      "Published" : "2016-12-30T19:37:09Z",
+      "Title" : "Optical 88",
+      "Updated" : "2016-12-30T19:37:09Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.9934292, 40.7240104 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=1496167149722447091",
+      "Location" : {
+        "Address" : "264 Elizabeth Street, New York, NY 10012, United States",
+        "Business Name" : "TOMS New York",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.7240104",
+          "Longitude" : "-73.9934292"
+        }
+      },
+      "Published" : "2016-12-30T19:36:49Z",
+      "Title" : "TOMS New York",
+      "Updated" : "2016-12-30T19:36:49Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.9954391, 40.7211022 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=5532203514895574417",
+      "Location" : {
+        "Address" : "198 Mott Street, New York, NY 10012, United States",
+        "Business Name" : "Parisi Bakery",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.7211022",
+          "Longitude" : "-73.9954391"
+        }
+      },
+      "Published" : "2016-12-30T19:36:39Z",
+      "Title" : "Parisi Bakery",
+      "Updated" : "2016-12-30T19:36:39Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.9803322, 40.7799286 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=10761803594462719336",
+      "Location" : {
+        "Address" : "167 West 74th Street, New York, NY 10023, United States",
+        "Business Name" : "Levain",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.7799286",
+          "Longitude" : "-73.9803322"
+        }
+      },
+      "Published" : "2016-12-30T05:14:00Z",
+      "Title" : "Levain",
+      "Updated" : "2016-12-30T05:14:00Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.9556887, 40.7734448 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=15387299756711740026",
+      "Location" : {
+        "Address" : "244 East 79th Street, New York, NY 10075, United States",
+        "Business Name" : "Sojourn",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.7734448",
+          "Longitude" : "-73.9556887"
+        }
+      },
+      "Published" : "2016-12-30T00:50:52Z",
+      "Title" : "Sojourn",
+      "Updated" : "2016-12-30T00:50:52Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.9674407, 40.8025115 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=13890042815614279194",
+      "Location" : {
+        "Address" : "2788 Broadway, New York, NY 10025, United States",
+        "Business Name" : "Absolute Bagels",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.8025115",
+          "Longitude" : "-73.9674407"
+        }
+      },
+      "Published" : "2016-12-29T00:05:43Z",
+      "Title" : "Absolute Bagels",
+      "Updated" : "2016-12-29T00:05:43Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.9618754, 40.8038356 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=14169184324702964735",
+      "Location" : {
+        "Address" : "1047 Amsterdam Avenue, New York, NY 10025, United States",
+        "Business Name" : "The Cathedral Church of St. John the Divine",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.8038356",
+          "Longitude" : "-73.9618754"
+        }
+      },
+      "Published" : "2016-12-28T21:32:13Z",
+      "Title" : "The Cathedral Church of St. John the Divine",
+      "Updated" : "2016-12-28T21:32:13Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.9901927, 40.7180091 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=4311891475003941045",
+      "Location" : {
+        "Address" : "88 Orchard Street, New York, NY 10002, United States",
+        "Business Name" : "Irving Farm Coffee Roasters",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.7180091",
+          "Longitude" : "-73.9901927"
+        }
+      },
+      "Published" : "2016-12-28T20:37:20Z",
+      "Title" : "Irving Farm Coffee Roasters",
+      "Updated" : "2016-12-28T20:37:20Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.9657218, 40.8061134 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=2750893694035227898",
+      "Location" : {
+        "Address" : "2897 Broadway, New York, NY 10025, United States",
+        "Business Name" : "NUSSBAUM & WU Bakery & Cafe",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.8061134",
+          "Longitude" : "-73.9657218"
+        }
+      },
+      "Published" : "2016-12-28T20:35:00Z",
+      "Title" : "NUSSBAUM & WU Bakery & Cafe",
+      "Updated" : "2016-12-28T20:35:00Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -71.1357387, 42.3397569 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=10262699858037095210",
+      "Location" : {
+        "Address" : "1632 Beacon Street, Brookline, MA 02446, United States",
+        "Business Name" : "Stoked Wood Fired Pizza",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "42.3397569",
+          "Longitude" : "-71.1357387"
+        }
+      },
+      "Published" : "2016-12-27T23:07:34Z",
+      "Title" : "Stoked Wood Fired Pizza",
+      "Updated" : "2016-12-27T23:07:34Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -71.065655, 42.356187 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Frog+Pond,+Boston,+MA+02108&ftid=0x89e3709c4c3c6223:0x1aa8b565a6195623",
+      "Location" : {
+        "Latitude" : "42.356187",
+        "Longitude" : "-71.065655"
+      },
+      "Published" : "2016-12-27T04:00:33Z",
+      "Title" : "Frog Pond",
+      "Updated" : "2016-12-27T04:00:33Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -71.072399, 42.335636 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=1+Boston+Medical+Center+Pl,+Boston,+MA+02118&ftid=0x89e37a3ff51e2b8d:0x7cc408d472367d7",
+      "Location" : {
+        "Latitude" : "42.335636",
+        "Longitude" : "-71.072399"
+      },
+      "Published" : "2016-12-27T04:00:24Z",
+      "Title" : "1 Boston Medical Center Place, Boston, MA 02118",
+      "Updated" : "2016-12-27T04:00:24Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -71.0623678, 42.3551950 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=8333197534271658894",
+      "Location" : {
+        "Address" : "21 Temple Place, Boston, MA 02111, United States",
+        "Business Name" : "jm Curley",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "42.3551950",
+          "Longitude" : "-71.0623678"
+        }
+      },
+      "Published" : "2016-12-26T23:52:21Z",
+      "Title" : "jm Curley",
+      "Updated" : "2016-12-26T23:52:21Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -71.1343355, 42.3549922 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=9234110552106052029",
+      "Location" : {
+        "Address" : "431 Cambridge Street, Allston, MA 02134, United States",
+        "Business Name" : "Allston Diner",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "42.3549922",
+          "Longitude" : "-71.1343355"
+        }
+      },
+      "Published" : "2016-12-24T20:09:57Z",
+      "Title" : "Allston Diner",
+      "Updated" : "2016-12-24T20:09:57Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -71.1370138, 42.3539026 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=11326140607677731354",
+      "Location" : {
+        "Address" : "479 Cambridge Street, Boston, MA 02134, United States",
+        "Business Name" : "Lone Star Taco Bar",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "42.3539026",
+          "Longitude" : "-71.1370138"
+        }
+      },
+      "Published" : "2016-12-24T20:09:41Z",
+      "Title" : "Lone Star Taco Bar",
+      "Updated" : "2016-12-24T20:09:41Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -71.1245245, 42.3518874 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=4165182012472996954",
+      "Location" : {
+        "Address" : "1098 Commonwealth Avenue, Boston, MA 02215, United States",
+        "Business Name" : "Holly Crab",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "42.3518874",
+          "Longitude" : "-71.1245245"
+        }
+      },
+      "Published" : "2016-12-24T01:03:19Z",
+      "Title" : "Holly Crab",
+      "Updated" : "2016-12-24T01:03:19Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -71.0807839, 42.3457533 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=5102808911985473846",
+      "Location" : {
+        "Address" : "120 Huntington Avenue, Boston, MA 02116, United States",
+        "Business Name" : "Brasserie JO",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "42.3457533",
+          "Longitude" : "-71.0807839"
+        }
+      },
+      "Published" : "2016-12-19T00:49:11Z",
+      "Title" : "Brasserie JO",
+      "Updated" : "2016-12-19T00:49:11Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -71.0825403, 42.3493675 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=16129840883891266903",
+      "Location" : {
+        "Address" : "248 Newbury Street, Boston, MA 02116, United States",
+        "Business Name" : "The Paint Bar",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "42.3493675",
+          "Longitude" : "-71.0825403"
+        }
+      },
+      "Published" : "2016-12-12T07:07:45Z",
+      "Title" : "The Paint Bar",
+      "Updated" : "2016-12-12T07:07:45Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -71.0844490, 42.3488670 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=1194439505857823401",
+      "Location" : {
+        "Address" : "286 Newbury Street, Boston, MA 02115, United States",
+        "Business Name" : "Pavement Coffeehouse",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "42.3488670",
+          "Longitude" : "-71.0844490"
+        }
+      },
+      "Published" : "2016-12-12T07:06:37Z",
+      "Title" : "Pavement Coffeehouse",
+      "Updated" : "2016-12-12T07:06:37Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -71.0544602, 42.3597994 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=54879560290141189",
+      "Location" : {
+        "Address" : "5, 4 South Market Building,, Boston, MA 02109, United States",
+        "Business Name" : "Faneuil Hall Marketplace",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "42.3597994",
+          "Longitude" : "-71.0544602"
+        }
+      },
+      "Published" : "2016-12-12T07:06:20Z",
+      "Title" : "Faneuil Hall Marketplace",
+      "Updated" : "2016-12-12T07:06:20Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -71.0697694, 42.3554876 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=8824080850318793537",
+      "Location" : {
+        "Address" : "Boston, MA 02116, United States",
+        "Business Name" : "Make Way for Ducklings",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "42.3554876",
+          "Longitude" : "-71.0697694"
+        }
+      },
+      "Published" : "2016-12-12T07:05:55Z",
+      "Title" : "Make Way for Ducklings",
+      "Updated" : "2016-12-12T07:05:55Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -71.0610370, 42.3562603 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=7310939195977812239",
+      "Location" : {
+        "Address" : "1 Hamilton Place, Boston, MA 02108, United States",
+        "Business Name" : "Orpheum Theatre",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "42.3562603",
+          "Longitude" : "-71.0610370"
+        }
+      },
+      "Published" : "2016-12-11T03:53:06Z",
+      "Title" : "Orpheum Theatre",
+      "Updated" : "2016-12-11T03:53:06Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -71.0632615, 42.3518331 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=7514077082126073990",
+      "Location" : {
+        "Address" : "665 Washington Street, Boston, MA 02111, United States",
+        "Business Name" : "Jaho Coffee Roaster & Wine Bar",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "42.3518331",
+          "Longitude" : "-71.0632615"
+        }
+      },
+      "Published" : "2016-12-11T03:52:59Z",
+      "Title" : "Jaho Coffee Roaster & Wine Bar",
+      "Updated" : "2016-12-11T03:52:59Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -71.1310484, 42.3508286 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=2683953717466900011",
+      "Location" : {
+        "Address" : "194 Harvard Avenue, Allston, MA 02134, United States",
+        "Business Name" : "In House Cafe",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "42.3508286",
+          "Longitude" : "-71.1310484"
+        }
+      },
+      "Published" : "2016-12-05T15:38:03Z",
+      "Title" : "In House Cafe",
+      "Updated" : "2016-12-05T15:38:03Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -71.0771810, 42.3512500 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=9346154241386870331",
+      "Location" : {
+        "Address" : "139 Newbury Street, Boston, MA 02116, United States",
+        "Business Name" : "Longchamp",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "42.3512500",
+          "Longitude" : "-71.0771810"
+        }
+      },
+      "Published" : "2016-12-04T22:29:18Z",
+      "Title" : "Longchamp",
+      "Updated" : "2016-12-04T22:29:18Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -71.085243, 42.349116 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=297+Newbury+St,+Boston,+MA+02115&ftid=0x89e37a0f88f60e49:0x4ccd99961623d33e",
+      "Location" : {
+        "Latitude" : "42.349116",
+        "Longitude" : "-71.085243"
+      },
+      "Published" : "2016-12-02T20:18:33Z",
+      "Title" : "297 Newbury Street, Boston, MA 02115",
+      "Updated" : "2016-12-02T20:18:33Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -71.0627581, 42.3514470 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=3810781519781404166",
+      "Location" : {
+        "Address" : "682 Washington Street, Boston, MA 02111, United States",
+        "Business Name" : "Phở Pasteur",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "42.3514470",
+          "Longitude" : "-71.0627581"
+        }
+      },
+      "Published" : "2016-12-02T09:47:09Z",
+      "Title" : "Pho Pasteur",
+      "Updated" : "2016-12-02T09:47:09Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -71.0778024, 42.3471832 ],
       "type" : "Point"
     },
     "properties" : {
@@ -12,8 +1452,8 @@
         "Business Name" : "Copley Place",
         "Country Code" : "US",
         "Geo Coordinates" : {
-          "Latitude" : "42.3473183",
-          "Longitude" : "-71.0789549"
+          "Latitude" : "42.3471832",
+          "Longitude" : "-71.0778024"
         }
       },
       "Published" : "2016-11-30T19:54:11Z",
@@ -177,7 +1617,7 @@
       "Google Maps URL" : "http://maps.google.com/?cid=11127851869728225314",
       "Location" : {
         "Address" : "304 Newbury Street, Boston, MA 02115, United States",
-        "Business Name" : "Lady M Confections",
+        "Business Name" : "Lady M Cake Boutique",
         "Country Code" : "US",
         "Geo Coordinates" : {
           "Latitude" : "42.3486766",
@@ -275,7 +1715,7 @@
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ -71.1308796, 42.3524195 ],
+      "coordinates" : [ -71.1305090, 42.3526645 ],
       "type" : "Point"
     },
     "properties" : {
@@ -285,8 +1725,8 @@
         "Business Name" : "Yi Soon Bakery",
         "Country Code" : "US",
         "Geo Coordinates" : {
-          "Latitude" : "42.3524195",
-          "Longitude" : "-71.1308796"
+          "Latitude" : "42.3526645",
+          "Longitude" : "-71.1305090"
         }
       },
       "Published" : "2016-11-19T02:15:30Z",
@@ -345,7 +1785,7 @@
       "Google Maps URL" : "http://maps.google.com/?cid=4329642385961712805",
       "Location" : {
         "Address" : "151 Brighton Avenue, Allston, MA 02134, United States",
-        "Business Name" : "Buk Kyung",
+        "Business Name" : "Buk Kyung II - Allston",
         "Country Code" : "US",
         "Geo Coordinates" : {
           "Latitude" : "42.3531975",
@@ -527,19 +1967,30 @@
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ -73.9811502, 40.7524990 ],
+      "coordinates" : [ -73.981219, 40.752455 ],
       "type" : "Point"
     },
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=14464063881088868403",
       "Location" : {
-        "Address" : "475 5th Avenue, New York, NY 10017, United States",
-        "Business Name" : "MUJI Fifth Avenue",
-        "Country Code" : "US",
-        "Geo Coordinates" : {
-          "Latitude" : "40.7524990",
-          "Longitude" : "-73.9811502"
-        }
+        "Latitude" : "40.752455",
+        "Longitude" : "-73.981219"
+      },
+      "Published" : "2016-11-14T05:00:43Z",
+      "Title" : "MUJI Fifth Avenue",
+      "Updated" : "2016-11-14T05:00:43Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.981219, 40.752455 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=14464063881088868403",
+      "Location" : {
+        "Latitude" : "40.752455",
+        "Longitude" : "-73.981219"
       },
       "Published" : "2016-11-14T05:00:43Z",
       "Title" : "MUJI Fifth Avenue",
@@ -632,7 +2083,7 @@
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ -71.0733891, 42.3577353 ],
+      "coordinates" : [ -71.0733619, 42.3577260 ],
       "type" : "Point"
     },
     "properties" : {
@@ -642,8 +2093,8 @@
         "Business Name" : "The Esplanade",
         "Country Code" : "US",
         "Geo Coordinates" : {
-          "Latitude" : "42.3577353",
-          "Longitude" : "-71.0733891"
+          "Latitude" : "42.3577260",
+          "Longitude" : "-71.0733619"
         }
       },
       "Published" : "2016-11-14T04:56:47Z",
@@ -674,7 +2125,7 @@
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ -71.0962487, 42.3492582 ],
+      "coordinates" : [ -71.0962487, 42.3492592 ],
       "type" : "Point"
     },
     "properties" : {
@@ -684,7 +2135,7 @@
         "Business Name" : "Barnes & Noble",
         "Country Code" : "US",
         "Geo Coordinates" : {
-          "Latitude" : "42.3492582",
+          "Latitude" : "42.3492592",
           "Longitude" : "-71.0962487"
         }
       },
@@ -863,7 +2314,7 @@
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ -71.1217139, 42.3426387 ],
+      "coordinates" : [ -71.1217152, 42.3426377 ],
       "type" : "Point"
     },
     "properties" : {
@@ -873,8 +2324,8 @@
         "Business Name" : "Brookline Booksmith",
         "Country Code" : "US",
         "Geo Coordinates" : {
-          "Latitude" : "42.3426387",
-          "Longitude" : "-71.1217139"
+          "Latitude" : "42.3426377",
+          "Longitude" : "-71.1217152"
         }
       },
       "Published" : "2016-11-14T04:49:11Z",
@@ -905,27 +2356,6 @@
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ -71.1049118, 42.3657866 ],
-      "type" : "Point"
-    },
-    "properties" : {
-      "Google Maps URL" : "http://maps.google.com/?cid=2774789711721194608",
-      "Location" : {
-        "Address" : "698 Massachusetts Avenue, Cambridge, MA 02139, United States",
-        "Business Name" : "Rodney's Bookstore",
-        "Country Code" : "US",
-        "Geo Coordinates" : {
-          "Latitude" : "42.3657866",
-          "Longitude" : "-71.1049118"
-        }
-      },
-      "Published" : "2016-11-14T04:47:55Z",
-      "Title" : "Rodney's Bookstore",
-      "Updated" : "2016-11-14T04:47:55Z"
-    },
-    "type" : "Feature"
-  }, {
-    "geometry" : {
       "coordinates" : [ -71.0891717, 42.3398067 ],
       "type" : "Point"
     },
@@ -947,19 +2377,14 @@
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ -73.9851310, 40.7588950 ],
+      "coordinates" : [ -73.985131, 40.758895 ],
       "type" : "Point"
     },
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=6132018978369701678",
       "Location" : {
-        "Address" : "Manhattan, NY 10036, United States",
-        "Business Name" : "Times Square",
-        "Country Code" : "US",
-        "Geo Coordinates" : {
-          "Latitude" : "40.7588950",
-          "Longitude" : "-73.9851310"
-        }
+        "Latitude" : "40.758895",
+        "Longitude" : "-73.985131"
       },
       "Published" : "2016-11-14T04:45:48Z",
       "Title" : "Times Square",
@@ -1206,7 +2631,7 @@
       "Google Maps URL" : "http://maps.google.com/?cid=15103292308083303722",
       "Location" : {
         "Address" : "994 Columbus Avenue, New York, NY 10025, United States",
-        "Business Name" : "Isola Restaurant",
+        "Business Name" : "Isola",
         "Country Code" : "US",
         "Geo Coordinates" : {
           "Latitude" : "40.8011670",
@@ -1346,19 +2771,30 @@
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ -73.9842536, 40.7530470 ],
+      "coordinates" : [ -73.984254, 40.753046 ],
       "type" : "Point"
     },
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=3970610321118862076",
       "Location" : {
-        "Address" : "54 West 40th Street, New York, NY 10018, United States",
-        "Business Name" : "Blue Bottle Coffee",
-        "Country Code" : "US",
-        "Geo Coordinates" : {
-          "Latitude" : "40.7530470",
-          "Longitude" : "-73.9842536"
-        }
+        "Latitude" : "40.753046",
+        "Longitude" : "-73.984254"
+      },
+      "Published" : "2016-11-14T04:25:37Z",
+      "Title" : "Blue Bottle Coffee",
+      "Updated" : "2016-11-14T04:25:37Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.984254, 40.753046 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=3970610321118862076",
+      "Location" : {
+        "Latitude" : "40.753046",
+        "Longitude" : "-73.984254"
       },
       "Published" : "2016-11-14T04:25:37Z",
       "Title" : "Blue Bottle Coffee",
@@ -1962,7 +3398,7 @@
       "Google Maps URL" : "http://maps.google.com/?cid=4577491191698378500",
       "Location" : {
         "Address" : "139 Tremont Street, Boston, MA 02111, United States",
-        "Business Name" : "Boston Common Park",
+        "Business Name" : "Boston Common",
         "Country Code" : "US",
         "Geo Coordinates" : {
           "Latitude" : "42.3551128",
@@ -2109,7 +3545,7 @@
       "Google Maps URL" : "http://maps.google.com/?cid=1713364859166765323",
       "Location" : {
         "Address" : "184 Brighton Avenue, Allston, MA 02134, United States",
-        "Business Name" : "Thai Place Boston",
+        "Business Name" : "Thai Place",
         "Country Code" : "US",
         "Geo Coordinates" : {
           "Latitude" : "42.3530580",
@@ -2144,7 +3580,7 @@
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ -71.1193756, 42.3521732 ],
+      "coordinates" : [ -71.1193589, 42.3522202 ],
       "type" : "Point"
     },
     "properties" : {
@@ -2154,8 +3590,8 @@
         "Business Name" : "Paradise Rock Club",
         "Country Code" : "US",
         "Geo Coordinates" : {
-          "Latitude" : "42.3521732",
-          "Longitude" : "-71.1193756"
+          "Latitude" : "42.3522202",
+          "Longitude" : "-71.1193589"
         }
       },
       "Published" : "2016-11-14T04:02:33Z",
@@ -2165,7 +3601,7 @@
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ -71.1319330, 42.3503610 ],
+      "coordinates" : [ -71.1319820, 42.3504050 ],
       "type" : "Point"
     },
     "properties" : {
@@ -2175,8 +3611,8 @@
         "Business Name" : "Pavement Coffeehouse",
         "Country Code" : "US",
         "Geo Coordinates" : {
-          "Latitude" : "42.3503610",
-          "Longitude" : "-71.1319330"
+          "Latitude" : "42.3504050",
+          "Longitude" : "-71.1319820"
         }
       },
       "Published" : "2016-11-14T04:02:24Z",
@@ -2249,18 +3685,18 @@
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ -71.1220428, 42.3744332 ],
+      "coordinates" : [ -71.1221047, 42.3743090 ],
       "type" : "Point"
     },
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=11739614185594704226",
       "Location" : {
-        "Address" : "52 Brattle Street D, Cambridge, MA 02138, United States",
+        "Address" : "52 Brattle Street, Cambridge, MA 02138, United States",
         "Business Name" : "L.A. Burdick Handmade Chocolates",
         "Country Code" : "US",
         "Geo Coordinates" : {
-          "Latitude" : "42.3744332",
-          "Longitude" : "-71.1220428"
+          "Latitude" : "42.3743090",
+          "Longitude" : "-71.1221047"
         }
       },
       "Published" : "2016-11-14T04:01:04Z",
@@ -2333,7 +3769,7 @@
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ -71.0866230, 42.3482440 ],
+      "coordinates" : [ -71.0866100, 42.3482380 ],
       "type" : "Point"
     },
     "properties" : {
@@ -2343,8 +3779,8 @@
         "Business Name" : "Trident Booksellers & Cafe",
         "Country Code" : "US",
         "Geo Coordinates" : {
-          "Latitude" : "42.3482440",
-          "Longitude" : "-71.0866230"
+          "Latitude" : "42.3482380",
+          "Longitude" : "-71.0866100"
         }
       },
       "Published" : "2016-11-14T03:58:47Z",
