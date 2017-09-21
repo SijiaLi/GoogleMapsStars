@@ -1,17 +1,9 @@
 library(jsonlite)
-json_data <- fromJSON(file="/Users/Scarlett/Dropbox/Projects/GoogleMapsStars/NYC.json")
-dat <- json_data[2]
-dat <- dat$features
-n <- length(dat)
-df <- data.frame()
-for (i in 1:n) {
-  place <- dat[[i]]
-  bus <- place$properties
-  loc <- bus$Location
-  loc <- data.frame(loc$`Business Name`, loc$Address, loc$`Geo Coordinates`$Latitude, loc$`Geo Coordinates`$Longitude)
-  df <- rbind(df, loc)
-}
-names(df) <- c("Business Name", "Address", "latitude", "longitude")
+json_data <- fromJSON("/Users/Sijia/Desktop/Saved Places.json")
+dat <- json_data$features
+
+loc <- dat$properties$Location
+df <- loc[c("Address", "Business Name", "Geo Coordinates")]
 
 nyc <- df[grep('NY', df$Address, perl=T),]
 
@@ -27,5 +19,8 @@ for (i in 1:nrow(nyc)){
   address <- c(address, add)
 }
 nyc$Address <- address
+nyc$latitude <- nyc$`Geo Coordinates`$Latitude
+nyc$longitude <- nyc$`Geo Coordinates`$Longitude
+nyc$`Geo Coordinates` <- NULL
 
 write.csv(nyc, file = "nyc.csv", row.names = FALSE)
