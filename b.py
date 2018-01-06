@@ -26,5 +26,5 @@ for i in range(N):
         one_feature['properties'][col] = record[col]
     json_data['features'].append(one_feature)
     
-with open('data.geojson', 'w') as outfile:
+with open('nyc.geojson', 'w') as outfile:
     json.dump(json_data, outfile)
