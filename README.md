@@ -1,4 +1,1 @@
-# GoogleMapsStars
-This is a test repo.
-
-I'm obsessed with location based data and am trying to plot my saved locations in Boston and NYC :)
+https://render.githubusercontent.com/view/geojson?url=https://raw.githubusercontent.com/SijiaLi/GoogleMapsStars/master/nyc.geojson
