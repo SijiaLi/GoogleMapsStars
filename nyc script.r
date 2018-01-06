@@ -23,4 +23,4 @@ nyc$latitude <- nyc$`Geo Coordinates`$Latitude
 nyc$longitude <- nyc$`Geo Coordinates`$Longitude
 nyc$`Geo Coordinates` <- NULL
 
-write.csv(nyc, file = "nyc.csv", row.names = FALSE)
+write.csv(nyc, file = "data.csv", row.names = FALSE)
