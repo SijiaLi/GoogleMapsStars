@@ -1,6 +1,6 @@
-This project is about visualizing geo information saved in google maps. 
+# This project is about visualizing geo information saved in google maps. 
 
-![image](https://user-images.githubusercontent.com/15311750/34636560-33d6594e-f272-11e7-834a-3499ef37995e.png)
+![image](https://user-images.githubusercontent.com/15311750/34636580-ad0fd510-f272-11e7-9b84-dbd0aa233f32.png)
 
 
 
