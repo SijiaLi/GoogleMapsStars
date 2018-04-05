@@ -1,6 +1,6 @@
 After 10+ trips to NYC I feel like it would be so much fun to create my own NYC vlog in a geeky way! As a result, I made a interactive map filled with all the fun places I've been to: coffee shops, restaurants, landmarks, hippie stores, even fitness studios.
 
-I collected data from my Google Maps history, did some data cleaning and formatting, and converted the file to geojson format that GitHub requires for rendering. Voila, here it is!
+I collected data from my Google Maps history, did some data cleaning and formatting, and converted the file to geojson format that GitHub requires for rendering. Voila, [here](https://render.githubusercontent.com/view/geojson?url=https://raw.githubusercontent.com/SijiaLi/GoogleMapsStars/master/nyc.geojson)  it is!
 
 <p align="center">
   👣 My Footprint in NYC
