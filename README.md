@@ -10,7 +10,7 @@
 1. Get Geo Info
 Use [Google Takeout](https://takeout.google.com/) to download information saved in Google Maps.
 
-2. Get Clean Data of NYC
+2. Get a subset of NYC data
 The downloaded file is in json format. The script nyc.r cleans the dataset and subset the locations in NYC, then saved the clean nyc data to a file called "data.csv"
 
 3. Convert CSV to GEOJSON
